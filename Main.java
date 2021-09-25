@@ -10,5 +10,9 @@ class Main
     {
         // JOptionPane.showMessageDialog(null, "Hello World");
         // JOptionPane.showMessageDialog(null, "Gomennasai", "Gagal", JOptionPane.ERROR_MESSAGE); 
+        
+        Object tes = new String[]{"Ichika", "Nino", "Yotsuba", "Itsuki"};
+        
+        System.out.println(tes);
     }
 }
